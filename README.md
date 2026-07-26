@@ -15,6 +15,7 @@ This example contains the following services:
 * PHP 8.3
 * NGINX
 * MariaDB 10.11
+* why
 
 To see similar projects with additional services, please visit https://github.com/lagoon-examples and to find out more about the services, please visit the documentation at https://docs.lagoon.sh/lagoon
 
